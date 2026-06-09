@@ -1,0 +1,19 @@
+name: Run Rain Flow via Cron
+
+on:
+  workflow_dispatch: # <- [สำคัญมาก] คำสั่งนี้ทำให้มีปุ่มกดรัน และอนุญาตให้ Web Cron ยิง API มาสั่งรันได้
+
+jobs:
+  run-task:
+    runs-on: ubuntu-latest # ใช้เซิร์ฟเวอร์กลางของ GitHub ในการรัน
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # --- ตัวอย่าง: เพิ่มสคริปต์หรือคำสั่งที่คุณต้องการรันไว้ตรงนี้ ---
+      - name: Run my script
+        run: |
+          echo "เริ่มรันงานตามเวลาที่ตั้งไว้..."
+          # ตัวอย่างเช่น ถ้าคุณรัน Python ให้ใส่คำสั่งประมาณนี้:
+          # python script.py
