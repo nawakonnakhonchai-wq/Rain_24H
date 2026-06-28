@@ -45494,22 +45494,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.29174,
-                    12.03061
-                ]
-            },
-            "properties": {
-                "station_name": "โรงแรมโครอล รีสอร์ท เกาะช้าง หมู่ 4",
-                "rain_24h": 0,
-                "province": "ตราด",
-                "datetime": "2026-06-28 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.239103,
                     18.636704
                 ]
