@@ -46070,22 +46070,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.75617,
-                    5.94229
-                ]
-            },
-            "properties": {
-                "station_name": "ศาลาเอนกประสงค์ หมู่ 1 บ้านน้ำใส กม.3 สายเกียร์",
-                "rain_24h": 0,
-                "province": "นราธิวาส",
-                "datetime": "2026-06-29 06:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.96901,
                     6.01068
                 ]
@@ -52191,22 +52175,6 @@
                 "rain_24h": 0,
                 "province": "ระนอง",
                 "datetime": "2026-06-29 17:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.59467,
-                    9.942865
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านปากคลอง หมู่1",
-                "rain_24h": 0,
-                "province": "ระนอง",
-                "datetime": "2026-06-29 06:50"
             }
         },
         {
