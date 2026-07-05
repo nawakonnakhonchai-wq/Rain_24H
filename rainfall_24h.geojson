@@ -8854,22 +8854,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.02184,
-                    17.32797
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำสองแควใต้",
-                "rain_24h": 9.2,
-                "province": "ตาก",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.853,
                     18.75228
                 ]
@@ -8878,6 +8862,22 @@
                 "station_name": "อ่างเก็บน้ำน้ำเกี๋ยน",
                 "rain_24h": 9.2,
                 "province": "น่าน",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.02184,
+                    17.32797
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำสองแควใต้",
+                "rain_24h": 9.2,
+                "province": "ตาก",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -13494,22 +13494,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.40274,
-                    17.74115
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำแม่อาง",
-                "rain_24h": 5.6,
-                "province": "แพร่",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.09735,
                     17.31207
                 ]
@@ -13518,6 +13502,22 @@
                 "station_name": "อ่างเก็บน้ำหนองก้างปลา",
                 "rain_24h": 5.6,
                 "province": "ตาก",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.40274,
+                    17.74115
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำแม่อาง",
+                "rain_24h": 5.6,
+                "province": "แพร่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -17750,22 +17750,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.48586,
-                    17.38335
-                ]
-            },
-            "properties": {
-                "station_name": "วัดโนนทอง หมู่ที่ 2 บ้านแก่งม่วง",
-                "rain_24h": 3.8,
-                "province": "เลย",
-                "datetime": "2026-07-06 02:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.97219,
                     12.5175
                 ]
@@ -17775,6 +17759,22 @@
                 "rain_24h": 3.8,
                 "province": "ประจวบคีรีขันธ์",
                 "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.48586,
+                    17.38335
+                ]
+            },
+            "properties": {
+                "station_name": "วัดโนนทอง หมู่ที่ 2 บ้านแก่งม่วง",
+                "rain_24h": 3.8,
+                "province": "เลย",
+                "datetime": "2026-07-06 02:50"
             }
         },
         {
@@ -19126,22 +19126,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.87604,
-                    19.39982
-                ]
-            },
-            "properties": {
-                "station_name": "CHD001",
-                "rain_24h": 3,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.13674,
                     18.30968
                 ]
@@ -19150,6 +19134,22 @@
                 "station_name": "อ่างเก็บน้ำห้วยยอย",
                 "rain_24h": 3,
                 "province": "แพร่",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.87604,
+                    19.39982
+                ]
+            },
+            "properties": {
+                "station_name": "CHD001",
+                "rain_24h": 3,
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -22134,22 +22134,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.18837,
-                    18.05288
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำน้ำเกิ๋น",
-                "rain_24h": 2.4,
-                "province": "แพร่",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.51817,
                     17.22575
                 ]
@@ -22158,6 +22142,22 @@
                 "station_name": "อ่างเก็บน้ำห้วยยางเงาะ",
                 "rain_24h": 2.4,
                 "province": "หนองบัวลำภู",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.18837,
+                    18.05288
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำน้ำเกิ๋น",
+                "rain_24h": 2.4,
+                "province": "แพร่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -24406,14 +24406,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.86552,
-                    19.39301
+                    99.00955,
+                    18.00469
                 ]
             },
             "properties": {
-                "station_name": "CHD002",
+                "station_name": "อ่างเก็บน้ำห้วยหินฝน",
                 "rain_24h": 2,
-                "province": "เชียงใหม่",
+                "province": "ลำพูน",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -24438,14 +24438,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.00955,
-                    18.00469
+                    98.86552,
+                    19.39301
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยหินฝน",
+                "station_name": "CHD002",
                 "rain_24h": 2,
-                "province": "ลำพูน",
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -24774,14 +24774,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.22102,
-                    18.41699
+                    98.70883,
+                    18.3069
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยฮ่อม",
+                "station_name": "อ่างเก็บน้ำห้วยหนองสูน",
                 "rain_24h": 1.8,
-                "province": "แพร่",
+                "province": "ลำพูน",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -24806,14 +24806,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.70883,
-                    18.3069
+                    100.22102,
+                    18.41699
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยหนองสูน",
+                "station_name": "อ่างเก็บน้ำห้วยฮ่อม",
                 "rain_24h": 1.8,
-                "province": "ลำพูน",
+                "province": "แพร่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -27782,6 +27782,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.91527,
+                    19.41391
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยพิทักษ์ป่าสบห้วยผาตั้ง-นาเลา",
+                "rain_24h": 1.2,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.84675,
                     18.10623
                 ]
@@ -27806,22 +27822,6 @@
                 "station_name": "อ่างฯแม่ยอนสันดอนแก้ว",
                 "rain_24h": 1.2,
                 "province": "ลำปาง",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.91527,
-                    19.41391
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยพิทักษ์ป่าสบห้วยผาตั้ง-นาเลา",
-                "rain_24h": 1.2,
-                "province": "เชียงใหม่",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -30710,12 +30710,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.21883,
-                    18.11416
+                    100.03135,
+                    17.97108
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำหนองแขม",
+                "station_name": "อ่างเก็บน้ำห้วยกูด",
                 "rain_24h": 1,
                 "province": "แพร่",
                 "datetime": "2026-07-06 03:00"
@@ -30726,12 +30726,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.03135,
-                    17.97108
+                    100.21883,
+                    18.11416
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยกูด",
+                "station_name": "อ่างเก็บน้ำหนองแขม",
                 "rain_24h": 1,
                 "province": "แพร่",
                 "datetime": "2026-07-06 03:00"
@@ -32118,22 +32118,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.07798,
-                    17.405943
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยลาดกั่ว",
-                "rain_24h": 0.6,
-                "province": "หนองบัวลำภู",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.92826,
                     19.39339
                 ]
@@ -32142,6 +32126,22 @@
                 "station_name": "CHD004",
                 "rain_24h": 0.6,
                 "province": "เชียงใหม่",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.07798,
+                    17.405943
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำห้วยลาดกั่ว",
+                "rain_24h": 0.6,
+                "province": "หนองบัวลำภู",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -38326,15 +38326,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.93681,
-                    18.34001
+                    100.334167,
+                    15.67
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยโป่ง",
+                "station_name": "TC.60",
                 "rain_24h": 0,
-                "province": "ลำพูน",
-                "datetime": "2026-07-06 03:00"
+                "province": "นครสวรรค์",
+                "datetime": "2026-07-06 02:00"
             }
         },
         {
@@ -65318,15 +65318,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.334167,
-                    15.67
+                    100.58746,
+                    13.85402
                 ]
             },
             "properties": {
-                "station_name": "TC.60",
+                "station_name": "คลองลาดพร้าว วัดบางบัว",
                 "rain_24h": 0,
-                "province": "นครสวรรค์",
-                "datetime": "2026-07-06 02:00"
+                "province": "กรุงเทพมหานคร",
+                "datetime": "2026-07-06 03:00"
             }
         },
         {
@@ -69382,30 +69382,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.58746,
-                    13.85402
+                    98.84405,
+                    18.25546
                 ]
             },
             "properties": {
-                "station_name": "คลองลาดพร้าว วัดบางบัว",
+                "station_name": "อ่างเก็บน้ำทุ่งม่าน",
                 "rain_24h": 0,
-                "province": "กรุงเทพมหานคร",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.92907,
-                    19.0328
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานคลองแม่กาหลง (ม.พะเยา)",
-                "rain_24h": 0,
-                "province": "พะเยา",
+                "province": "ลำพูน",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -69430,62 +69414,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.9343,
-                    19.165922
+                    98.86272,
+                    18.29177
                 ]
             },
             "properties": {
-                "station_name": "สะพานข้ามน้ำอิง (I.17)",
-                "rain_24h": 0,
-                "province": "พะเยา",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.04149,
-                    18.6275
-                ]
-            },
-            "properties": {
-                "station_name": "น้ำแม่งาว",
-                "rain_24h": 0,
-                "province": "ลำปาง",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.45685,
-                    18.05428
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำแม่กอง",
-                "rain_24h": 0,
-                "province": "ลำปาง",
-                "datetime": "2026-07-06 03:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.84405,
-                    18.25546
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำทุ่งม่าน",
+                "station_name": "อ่างเก็บน้ำห้วยแทง",
                 "rain_24h": 0,
                 "province": "ลำพูน",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.35448,
+                    15.82878
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านกระยอม ",
+                "rain_24h": 0,
+                "province": "มหาสารคาม",
                 "datetime": "2026-07-06 03:00"
             }
         },
@@ -69510,12 +69462,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.86272,
-                    18.29177
+                    98.93681,
+                    18.34001
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยแทง",
+                "station_name": "อ่างเก็บน้ำห้วยโป่ง",
                 "rain_24h": 0,
                 "province": "ลำพูน",
                 "datetime": "2026-07-06 03:00"
@@ -69574,6 +69526,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.04149,
+                    18.6275
+                ]
+            },
+            "properties": {
+                "station_name": "น้ำแม่งาว",
+                "rain_24h": 0,
+                "province": "ลำปาง",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.45685,
+                    18.05428
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำแม่กอง",
+                "rain_24h": 0,
+                "province": "ลำปาง",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9343,
+                    19.165922
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานข้ามน้ำอิง (I.17)",
+                "rain_24h": 0,
+                "province": "พะเยา",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.92907,
+                    19.0328
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานคลองแม่กาหลง (ม.พะเยา)",
+                "rain_24h": 0,
+                "province": "พะเยา",
+                "datetime": "2026-07-06 03:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.09836,
                     6.297677
                 ]
@@ -69583,22 +69599,6 @@
                 "rain_24h": 0,
                 "province": "ยะลา",
                 "datetime": "2026-07-06 02:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.35448,
-                    15.82878
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านกระยอม ",
-                "rain_24h": 0,
-                "province": "มหาสารคาม",
-                "datetime": "2026-07-06 03:00"
             }
         }
     ]
