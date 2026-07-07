@@ -13110,38 +13110,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.7307,
-                    18.7955
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานน้ำแม่ขาน",
-                "rain_24h": 1.8,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.61528,
-                    14.467241
-                ]
-            },
-            "properties": {
-                "station_name": "วัดบ้านเขื่อนแก้ว",
-                "rain_24h": 1.8,
-                "province": "สุรินทร์",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.276,
                     14.5013
                 ]
@@ -13150,38 +13118,6 @@
                 "station_name": "สถานีควบคุมไฟป่าห้วยศาลา",
                 "rain_24h": 1.8,
                 "province": "ศรีสะเกษ",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.9666,
-                    13.83819
-                ]
-            },
-            "properties": {
-                "station_name": "ปากคลองพระองค์เจ้าฯ (บางน้ำเปรี้ยว)",
-                "rain_24h": 1.8,
-                "province": "ฉะเชิงเทรา",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.26785,
-                    15.10907
-                ]
-            },
-            "properties": {
-                "station_name": "สรรพยา",
-                "rain_24h": 1.8,
-                "province": "ชัยนาท",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13206,6 +13142,86 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.61528,
+                    14.467241
+                ]
+            },
+            "properties": {
+                "station_name": "วัดบ้านเขื่อนแก้ว",
+                "rain_24h": 1.8,
+                "province": "สุรินทร์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9666,
+                    13.83819
+                ]
+            },
+            "properties": {
+                "station_name": "ปากคลองพระองค์เจ้าฯ (บางน้ำเปรี้ยว)",
+                "rain_24h": 1.8,
+                "province": "ฉะเชิงเทรา",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.26644,
+                    12.90518
+                ]
+            },
+            "properties": {
+                "station_name": "ทต.โป่งน้ำร้อน",
+                "rain_24h": 1.8,
+                "province": "จันทบุรี",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.26785,
+                    15.10907
+                ]
+            },
+            "properties": {
+                "station_name": "สรรพยา",
+                "rain_24h": 1.8,
+                "province": "ชัยนาท",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.33399,
+                    7.969094
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำบางเหนียวดำ",
+                "rain_24h": 1.8,
+                "province": "ภูเก็ต",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     104.56758,
                     15.99938
                 ]
@@ -13222,14 +13238,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.32593,
-                    17.07915
+                    104.61866,
+                    16.908855
                 ]
             },
             "properties": {
-                "station_name": "อบต.ด่านม่วงคำ",
+                "station_name": "อบต.พุ่มแก",
                 "rain_24h": 1.8,
-                "province": "สกลนคร",
+                "province": "นครพนม",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13302,22 +13318,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.61866,
-                    16.908855
-                ]
-            },
-            "properties": {
-                "station_name": "อบต.พุ่มแก",
-                "rain_24h": 1.8,
-                "province": "นครพนม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.048333,
                     19.931389
                 ]
@@ -13327,6 +13327,22 @@
                 "rain_24h": 1.8,
                 "province": "เชียงใหม่",
                 "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.32593,
+                    17.07915
+                ]
+            },
+            "properties": {
+                "station_name": "อบต.ด่านม่วงคำ",
+                "rain_24h": 1.8,
+                "province": "สกลนคร",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -13366,54 +13382,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.922035,
-                    13.937376
-                ]
-            },
-            "properties": {
-                "station_name": "คลองพระปรง",
-                "rain_24h": 1.8,
-                "province": "สระแก้ว",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.26644,
-                    12.90518
-                ]
-            },
-            "properties": {
-                "station_name": "ทต.โป่งน้ำร้อน",
-                "rain_24h": 1.8,
-                "province": "จันทบุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.33399,
-                    7.969094
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำบางเหนียวดำ",
-                "rain_24h": 1.8,
-                "province": "ภูเก็ต",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.133333,
                     17.15
                 ]
@@ -13430,14 +13398,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.804115,
-                    16.725767
+                    101.922035,
+                    13.937376
                 ]
             },
             "properties": {
-                "station_name": "เหนือฝายหนองหวาย",
-                "rain_24h": 1.6,
-                "province": "ขอนแก่น",
+                "station_name": "คลองพระปรง",
+                "rain_24h": 1.8,
+                "province": "สระแก้ว",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13446,142 +13414,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.38282,
-                    17.30552
+                    98.7307,
+                    18.7955
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ห้วยหินสอ",
-                "rain_24h": 1.6,
-                "province": "เลย",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.27959,
-                    7.97936
-                ]
-            },
-            "properties": {
-                "station_name": "ที่สาธารณะประโยขน์ หมู่ 3 หาดสุรินทร์",
-                "rain_24h": 1.6,
-                "province": "ภูเก็ต",
-                "datetime": "2026-07-08 04:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.77956,
-                    16.824038
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ลำชี",
-                "rain_24h": 1.6,
-                "province": "กาฬสินธุ์",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.5914,
-                    16.993017
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานมิตรภาพท่าลาดปากบัง",
-                "rain_24h": 1.6,
-                "province": "นครพนม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.217926,
-                    15.603799
-                ]
-            },
-            "properties": {
-                "station_name": "โรงเรียนบ้านหนองปรือโป่ง",
-                "rain_24h": 1.6,
-                "province": "นครราชสีมา",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.65635,
-                    19.457697
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนน้ำพริก",
-                "rain_24h": 1.6,
-                "province": "น่าน",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.05005,
-                    14.43152
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ห้วยสำราญ",
-                "rain_24h": 1.6,
-                "province": "สุรินทร์",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.60633,
-                    14.794424
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานน้ำลพบุรี บ้านโพธิ์เก้าต้น",
-                "rain_24h": 1.6,
-                "province": "ลพบุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.53885,
-                    19.383726
-                ]
-            },
-            "properties": {
-                "station_name": "ที่ทำการอุทยานแห่งชาติถ้ำสะเกิน",
-                "rain_24h": 1.6,
-                "province": "น่าน",
+                "station_name": "สะพานน้ำแม่ขาน",
+                "rain_24h": 1.8,
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13606,14 +13446,174 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.554886,
-                    13.689612
+                    104.71922,
+                    16.54347
                 ]
             },
             "properties": {
-                "station_name": "ปตร.วัดบางกระเจ้านอก",
+                "station_name": "สนามกีฬาจังหวัด",
                 "rain_24h": 1.6,
-                "province": "สมุทรปราการ",
+                "province": "มุกดาหาร",
+                "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77956,
+                    16.824038
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ลำชี",
+                "rain_24h": 1.6,
+                "province": "กาฬสินธุ์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.27959,
+                    7.97936
+                ]
+            },
+            "properties": {
+                "station_name": "ที่สาธารณะประโยขน์ หมู่ 3 หาดสุรินทร์",
+                "rain_24h": 1.6,
+                "province": "ภูเก็ต",
+                "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.5914,
+                    16.993017
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานมิตรภาพท่าลาดปากบัง",
+                "rain_24h": 1.6,
+                "province": "นครพนม",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.60633,
+                    14.794424
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานน้ำลพบุรี บ้านโพธิ์เก้าต้น",
+                "rain_24h": 1.6,
+                "province": "ลพบุรี",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.65635,
+                    19.457697
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนน้ำพริก",
+                "rain_24h": 1.6,
+                "province": "น่าน",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.804115,
+                    16.725767
+                ]
+            },
+            "properties": {
+                "station_name": "เหนือฝายหนองหวาย",
+                "rain_24h": 1.6,
+                "province": "ขอนแก่น",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53885,
+                    19.383726
+                ]
+            },
+            "properties": {
+                "station_name": "ที่ทำการอุทยานแห่งชาติถ้ำสะเกิน",
+                "rain_24h": 1.6,
+                "province": "น่าน",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.95148,
+                    14.559949
+                ]
+            },
+            "properties": {
+                "station_name": "อ่างเก็บน้ำคูขาด",
+                "rain_24h": 1.6,
+                "province": "บุรีรัมย์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.14906,
+                    16.44121
+                ]
+            },
+            "properties": {
+                "station_name": "อบจ.เพชรบูรณ์",
+                "rain_24h": 1.6,
+                "province": "เพชรบูรณ์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.38282,
+                    17.30552
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ห้วยหินสอ",
+                "rain_24h": 1.6,
+                "province": "เลย",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13638,15 +13638,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.71922,
-                    16.54347
+                    103.1543,
+                    15.95648
                 ]
             },
             "properties": {
-                "station_name": "สนามกีฬาจังหวัด",
+                "station_name": "บ้านกำพี้ ",
                 "rain_24h": 1.6,
-                "province": "มุกดาหาร",
-                "datetime": "2026-07-08 04:50"
+                "province": "มหาสารคาม",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -13654,14 +13654,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.95148,
-                    14.559949
+                    100.554886,
+                    13.689612
                 ]
             },
             "properties": {
-                "station_name": "อ่างเก็บน้ำคูขาด",
+                "station_name": "ปตร.วัดบางกระเจ้านอก",
                 "rain_24h": 1.6,
-                "province": "บุรีรัมย์",
+                "province": "สมุทรปราการ",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13686,14 +13686,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.14906,
-                    16.44121
+                    102.217926,
+                    15.603799
                 ]
             },
             "properties": {
-                "station_name": "อบจ.เพชรบูรณ์",
+                "station_name": "โรงเรียนบ้านหนองปรือโป่ง",
                 "rain_24h": 1.6,
-                "province": "เพชรบูรณ์",
+                "province": "นครราชสีมา",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13702,14 +13702,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.1543,
-                    15.95648
+                    104.05005,
+                    14.43152
                 ]
             },
             "properties": {
-                "station_name": "บ้านกำพี้ ",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ห้วยสำราญ",
                 "rain_24h": 1.6,
-                "province": "มหาสารคาม",
+                "province": "สุรินทร์",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -13718,30 +13718,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.310197,
-                    14.236784
+                    99.155551,
+                    14.233617
                 ]
             },
             "properties": {
-                "station_name": "บ้านเขาน้อย",
+                "station_name": "บ้านทับศิลา",
                 "rain_24h": 1.5,
                 "province": "กาญจนบุรี",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.451272,
-                    7.801915
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านควนเหมียง",
-                "rain_24h": 1.5,
-                "province": "ตรัง",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -13798,6 +13782,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.101539,
+                    17.001791
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านหนองชะลาบ",
+                "rain_24h": 1.5,
+                "province": "ตาก",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.968513,
+                    19.248526
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านทับเดื่อ*",
+                "rain_24h": 1.5,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.759389,
                     14.625644
                 ]
@@ -13830,31 +13846,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.155551,
-                    14.233617
+                    100.58757,
+                    13.67493
                 ]
             },
             "properties": {
-                "station_name": "บ้านทับศิลา",
+                "station_name": "ส.บางนา",
                 "rain_24h": 1.5,
-                "province": "กาญจนบุรี",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.968513,
-                    19.248526
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านทับเดื่อ*",
-                "rain_24h": 1.5,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 04:00"
+                "province": "กรุงเทพมหานคร",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -13894,22 +13894,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.58757,
-                    13.67493
-                ]
-            },
-            "properties": {
-                "station_name": "ส.บางนา",
-                "rain_24h": 1.5,
-                "province": "กรุงเทพมหานคร",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     97.926343,
                     18.157893
                 ]
@@ -13926,22 +13910,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.101539,
-                    17.001791
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านหนองชะลาบ",
-                "rain_24h": 1.5,
-                "province": "ตาก",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.802926,
                     19.000704
                 ]
@@ -13950,6 +13918,22 @@
                 "station_name": "บ้านแม่ก๊ะเปียง",
                 "rain_24h": 1.5,
                 "province": "เชียงใหม่",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.010638,
+                    19.154243
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านผาเวียง",
+                "rain_24h": 1.5,
+                "province": "น่าน",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14006,22 +13990,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.010638,
-                    19.154243
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านผาเวียง",
-                "rain_24h": 1.5,
-                "province": "น่าน",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.401415,
                     13.707719
                 ]
@@ -14046,6 +14014,22 @@
                 "station_name": "บ้านกิ่วกาญจน์",
                 "rain_24h": 1.5,
                 "province": "เชียงราย",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.330612,
+                    14.740015
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านเขาหินตั้ง",
+                "rain_24h": 1.5,
+                "province": "กาญจนบุรี",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14102,6 +14086,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.419306,
+                    17.102959
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านห้วยแห้ง",
+                "rain_24h": 1.5,
+                "province": "ตาก",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.48199,
                     17.602828
                 ]
@@ -14142,22 +14142,6 @@
                 "station_name": "บ้านหลวง",
                 "rain_24h": 1.5,
                 "province": "เชียงใหม่",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.330612,
-                    14.740015
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านเขาหินตั้ง",
-                "rain_24h": 1.5,
-                "province": "กาญจนบุรี",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14246,6 +14230,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.512186,
+                    18.944161
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านห้วยเต่า",
+                "rain_24h": 1.5,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.413752,
                     17.858264
                 ]
@@ -14286,22 +14286,6 @@
                 "station_name": "บ้านปางตอง",
                 "rain_24h": 1.5,
                 "province": "แม่ฮ่องสอน",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.512186,
-                    18.944161
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านห้วยเต่า",
-                "rain_24h": 1.5,
-                "province": "เชียงใหม่",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14406,22 +14390,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.369169,
-                    18.138879
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านกิ่วลม",
-                "rain_24h": 1.5,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.81426,
                     17.27858
                 ]
@@ -14438,14 +14406,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    97.985103,
-                    19.312773
+                    98.369169,
+                    18.138879
                 ]
             },
             "properties": {
-                "station_name": "บ้านชานเมือง",
+                "station_name": "บ้านกิ่วลม",
                 "rain_24h": 1.5,
-                "province": "แม่ฮ่องสอน",
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14454,14 +14422,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.419306,
-                    17.102959
+                    99.669796,
+                    12.948548
                 ]
             },
             "properties": {
-                "station_name": "บ้านห้วยแห้ง",
+                "station_name": "บ้านหนองเกตุ",
                 "rain_24h": 1.5,
-                "province": "ตาก",
+                "province": "เพชรบุรี",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.985103,
+                    19.312773
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านชานเมือง",
+                "rain_24h": 1.5,
+                "province": "แม่ฮ่องสอน",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14510,22 +14494,6 @@
                 "station_name": "บ้านนาน้อย",
                 "rain_24h": 1.5,
                 "province": "เลย",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.669796,
-                    12.948548
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านหนองเกตุ",
-                "rain_24h": 1.5,
-                "province": "เพชรบุรี",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14710,6 +14678,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.607813,
+                    13.188978
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านลิ้นช้าง",
+                "rain_24h": 1.5,
+                "province": "เพชรบุรี",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.721217,
                     19.378589
                 ]
@@ -14742,14 +14726,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.607813,
-                    13.188978
+                    99.310197,
+                    14.236784
                 ]
             },
             "properties": {
-                "station_name": "บ้านลิ้นช้าง",
+                "station_name": "บ้านเขาน้อย",
                 "rain_24h": 1.5,
-                "province": "เพชรบุรี",
+                "province": "กาญจนบุรี",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49135,
+                    19.25623
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านห้วยกอก",
+                "rain_24h": 1.5,
+                "province": "พะเยา",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14790,14 +14790,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.49135,
-                    19.25623
+                    99.451272,
+                    7.801915
                 ]
             },
             "properties": {
-                "station_name": "บ้านห้วยกอก",
+                "station_name": "บ้านควนเหมียง",
                 "rain_24h": 1.5,
-                "province": "พะเยา",
+                "province": "ตรัง",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -14822,22 +14822,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.43766,
-                    18.42663
-                ]
-            },
-            "properties": {
-                "station_name": "ม.9 บ้านกิ่วนาค",
-                "rain_24h": 1.4,
-                "province": "แพร่",
-                "datetime": "2026-07-08 04:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.861244,
                     14.865248
                 ]
@@ -14846,22 +14830,6 @@
                 "station_name": "อ่างเก็บน้ำห้วยส้ม",
                 "rain_24h": 1.4,
                 "province": "ลพบุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.844635,
-                    14.635938
-                ]
-            },
-            "properties": {
-                "station_name": "ทต.ตะขบ",
-                "rain_24h": 1.4,
-                "province": "นครราชสีมา",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -14902,14 +14870,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.03968,
-                    19.16175
+                    99.511944,
+                    8.431944
                 ]
             },
             "properties": {
-                "station_name": "เขื่อนแม่งัดสมบูรณ์ชล",
+                "station_name": "ฉวาง",
                 "rain_24h": 1.4,
-                "province": "เชียงใหม่",
+                "province": "นครศรีธรรมราช",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.85113,
+                    18.308006
+                ]
+            },
+            "properties": {
+                "station_name": "ที่ทำการเขตรักษาพันธุ์สัตว์ป่าสาละวิน",
+                "rain_24h": 1.4,
+                "province": "แม่ฮ่องสอน",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -14926,22 +14910,6 @@
                 "station_name": "พระรามสอง",
                 "rain_24h": 1.4,
                 "province": "สมุทรสงคราม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.99642,
-                    16.28706
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่กลองน้อย-แม่กลองใหญ่",
-                "rain_24h": 1.4,
-                "province": "ตาก",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -14982,63 +14950,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    97.933333,
-                    18.166667
+                    101.69579,
+                    5.88726
                 ]
             },
             "properties": {
-                "station_name": "แม่สะเรียง",
+                "station_name": "สะพานข้ามคลองสอวอ บ้านสามซอย",
                 "rain_24h": 1.4,
-                "province": "แม่ฮ่องสอน",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.77532,
-                    19.111794
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทป.5 (น้ำตกหมอกฟ้า)",
-                "rain_24h": 1.4,
-                "province": "เชียงใหม่",
+                "province": "นราธิวาส",
                 "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97.85113,
-                    18.308006
-                ]
-            },
-            "properties": {
-                "station_name": "ที่ทำการเขตรักษาพันธุ์สัตว์ป่าสาละวิน",
-                "rain_24h": 1.4,
-                "province": "แม่ฮ่องสอน",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.511944,
-                    8.431944
-                ]
-            },
-            "properties": {
-                "station_name": "ฉวาง",
-                "rain_24h": 1.4,
-                "province": "นครศรีธรรมราช",
-                "datetime": "2026-07-08 04:00"
             }
         },
         {
@@ -15062,14 +14982,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.592064,
-                    14.181158
+                    97.933333,
+                    18.166667
                 ]
             },
             "properties": {
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ขญ.๑๐ (ประจันตคาม)",
+                "station_name": "แม่สะเรียง",
                 "rain_24h": 1.4,
-                "province": "ปราจีนบุรี",
+                "province": "แม่ฮ่องสอน",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.99642,
+                    16.28706
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่กลองน้อย-แม่กลองใหญ่",
+                "rain_24h": 1.4,
+                "province": "ตาก",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.43766,
+                    18.42663
+                ]
+            },
+            "properties": {
+                "station_name": "ม.9 บ้านกิ่วนาค",
+                "rain_24h": 1.4,
+                "province": "แพร่",
+                "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.844635,
+                    14.635938
+                ]
+            },
+            "properties": {
+                "station_name": "ทต.ตะขบ",
+                "rain_24h": 1.4,
+                "province": "นครราชสีมา",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15094,14 +15062,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.69579,
-                    5.88726
+                    101.592064,
+                    14.181158
                 ]
             },
             "properties": {
-                "station_name": "สะพานข้ามคลองสอวอ บ้านสามซอย",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ขญ.๑๐ (ประจันตคาม)",
                 "rain_24h": 1.4,
-                "province": "นราธิวาส",
+                "province": "ปราจีนบุรี",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.77532,
+                    19.111794
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทป.5 (น้ำตกหมอกฟ้า)",
+                "rain_24h": 1.4,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.03968,
+                    19.16175
+                ]
+            },
+            "properties": {
+                "station_name": "เขื่อนแม่งัดสมบูรณ์ชล",
+                "rain_24h": 1.4,
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15119,6 +15119,38 @@
                 "rain_24h": 1.3,
                 "province": "น่าน",
                 "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.183914,
+                    19.236826
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนว้า",
+                "rain_24h": 1.2,
+                "province": "น่าน",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.592,
+                    18.8532
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์สะเนียน-ไสล",
+                "rain_24h": 1.2,
+                "province": "น่าน",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -15158,12 +15190,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.66203,
-                    18.507551
+                    98.71209,
+                    19.382952
                 ]
             },
             "properties": {
-                "station_name": "สะพานน้ำแม่กลาง",
+                "station_name": "สะพานน้ำแม่แตง",
                 "rain_24h": 1.2,
                 "province": "เชียงใหม่",
                 "datetime": "2026-07-08 05:00"
@@ -15254,46 +15286,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.439766,
-                    18.232069
+                    99.31805,
+                    7.703922
                 ]
             },
             "properties": {
-                "station_name": "สะพานน้ำแม่แจ่ม บ้านแปะ",
+                "station_name": "อบต.กะลาเส",
                 "rain_24h": 1.2,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.71209,
-                    19.382952
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานน้ำแม่แตง",
-                "rain_24h": 1.2,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.80058,
-                    13.66949
-                ]
-            },
-            "properties": {
-                "station_name": "คลองจระเข้ใหญ่ บางเสาธง (วัดศรีวารีน้อย)",
-                "rain_24h": 1.2,
-                "province": "สมุทรปราการ",
+                "province": "ตรัง",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15318,6 +15318,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.64639,
+                    9.751775
+                ]
+            },
+            "properties": {
+                "station_name": "ศูนย์ศึกษาการพัฒนาการอนุรักษ์ต้นน้ำลุ่มน้ำภาตใต้ฝั่งตะวันออกตอนบน",
+                "rain_24h": 1.2,
+                "province": "ชุมพร",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.439766,
+                    18.232069
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานน้ำแม่แจ่ม บ้านแปะ",
+                "rain_24h": 1.2,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.968666,
                     16.758446
                 ]
@@ -15334,14 +15366,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.31805,
-                    7.703922
+                    102.22475,
+                    16.66195
                 ]
             },
             "properties": {
-                "station_name": "อบต.กะลาเส",
+                "station_name": "สถานีวิจัยต้นน้ำชี",
                 "rain_24h": 1.2,
-                "province": "ตรัง",
+                "province": "ขอนแก่น",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15350,14 +15382,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.64639,
-                    9.751775
+                    99.90437,
+                    12.49032
                 ]
             },
             "properties": {
-                "station_name": "ศูนย์ศึกษาการพัฒนาการอนุรักษ์ต้นน้ำลุ่มน้ำภาตใต้ฝั่งตะวันออกตอนบน",
+                "station_name": "อบต.ทับใต้",
                 "rain_24h": 1.2,
-                "province": "ชุมพร",
+                "province": "ประจวบคีรีขันธ์",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15382,12 +15414,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.90437,
-                    12.49032
+                    99.54378,
+                    12.52944
                 ]
             },
             "properties": {
-                "station_name": "อบต.ทับใต้",
+                "station_name": "อบต.ห้วยสัตว์ใหญ่",
                 "rain_24h": 1.2,
                 "province": "ประจวบคีรีขันธ์",
                 "datetime": "2026-07-08 05:00"
@@ -15406,22 +15438,6 @@
                 "station_name": "อบต.บางหิน",
                 "rain_24h": 1.2,
                 "province": "ระนอง",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.54378,
-                    12.52944
-                ]
-            },
-            "properties": {
-                "station_name": "อบต.ห้วยสัตว์ใหญ่",
-                "rain_24h": 1.2,
-                "province": "ประจวบคีรีขันธ์",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15462,6 +15478,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.75212,
+                    16.3871
+                ]
+            },
+            "properties": {
+                "station_name": "ทต.อัคคะคำ",
+                "rain_24h": 1.2,
+                "province": "ร้อยเอ็ด",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     103.992195,
                     16.871351
                 ]
@@ -15478,14 +15510,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.75212,
-                    16.3871
+                    98.57719,
+                    19.230482
                 ]
             },
             "properties": {
-                "station_name": "ทต.อัคคะคำ",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนแม่ยะ",
                 "rain_24h": 1.2,
-                "province": "ร้อยเอ็ด",
+                "province": "แม่ฮ่องสอน",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15526,30 +15558,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.57719,
-                    19.230482
+                    100.40301,
+                    18.516405
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนแม่ยะ",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ถา",
                 "rain_24h": 1.2,
-                "province": "แม่ฮ่องสอน",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.71571,
-                    14.772799
-                ]
-            },
-            "properties": {
-                "station_name": "โรงเรียนชินวงศ์อุปถัมภ์",
-                "rain_24h": 1.2,
-                "province": "นครราชสีมา",
+                "province": "น่าน",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15590,14 +15606,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.40301,
-                    18.516405
+                    101.71571,
+                    14.772799
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ถา",
+                "station_name": "โรงเรียนชินวงศ์อุปถัมภ์",
                 "rain_24h": 1.2,
-                "province": "น่าน",
+                "province": "นครราชสีมา",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15622,30 +15638,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.22475,
-                    16.66195
+                    100.80058,
+                    13.66949
                 ]
             },
             "properties": {
-                "station_name": "สถานีวิจัยต้นน้ำชี",
+                "station_name": "คลองจระเข้ใหญ่ บางเสาธง (วัดศรีวารีน้อย)",
                 "rain_24h": 1.2,
-                "province": "ขอนแก่น",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.36085,
-                    17.081057
-                ]
-            },
-            "properties": {
-                "station_name": "ปตร. บ้านหนองบึง-เหนือน้ำ",
-                "rain_24h": 1.2,
-                "province": "สกลนคร",
+                "province": "สมุทรปราการ",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15670,14 +15670,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.183914,
-                    19.236826
+                    104.36085,
+                    17.081057
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนว้า",
+                "station_name": "ปตร. บ้านหนองบึง-เหนือน้ำ",
                 "rain_24h": 1.2,
-                "province": "น่าน",
+                "province": "สกลนคร",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -15686,14 +15686,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.592,
-                    18.8532
+                    98.66203,
+                    18.507551
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์สะเนียน-ไสล",
+                "station_name": "สะพานน้ำแม่กลาง",
                 "rain_24h": 1.2,
-                "province": "น่าน",
+                "province": "เชียงใหม่",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -17814,22 +17814,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.63438,
-                    13.92245
-                ]
-            },
-            "properties": {
-                "station_name": "คลองลาดพร้าว ท้ายปตร.คลอง2",
-                "rain_24h": 1,
-                "province": "กรุงเทพมหานคร",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.031213,
                     16.794436
                 ]
@@ -17950,6 +17934,22 @@
                 "station_name": "อบต.หนองไร่",
                 "rain_24h": 1,
                 "province": "ระยอง",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.63438,
+                    13.92245
+                ]
+            },
+            "properties": {
+                "station_name": "คลองลาดพร้าว ท้ายปตร.คลอง2",
+                "rain_24h": 1,
+                "province": "กรุงเทพมหานคร",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18086,6 +18086,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.41463,
+                    14.751
+                ]
+            },
+            "properties": {
+                "station_name": "เหนือปตร.ยางมณี",
+                "rain_24h": 0.8,
+                "province": "สิงห์บุรี",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.15381,
                     19.968569
                 ]
@@ -18150,31 +18166,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.91105,
-                    10.513316
+                    103.07812,
+                    15.89121
                 ]
             },
             "properties": {
-                "station_name": "เขตรักษาพันธุ์สัตว์ป่า อุทยาน เสด็จในกรม กรมหลวงชุมพร ด้านทิศใต้",
+                "station_name": "อบต.โนนแดง",
                 "rain_24h": 0.8,
-                "province": "ระนอง",
+                "province": "มหาสารคาม",
                 "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.816667,
-                    16.333333
-                ]
-            },
-            "properties": {
-                "station_name": "ท่าพระ สกษ.",
-                "rain_24h": 0.8,
-                "province": "ขอนแก่น",
-                "datetime": "2026-07-08 04:00"
             }
         },
         {
@@ -18191,6 +18191,22 @@
                 "rain_24h": 0.8,
                 "province": "จันทบุรี",
                 "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.143333,
+                    16.878333
+                ]
+            },
+            "properties": {
+                "station_name": "ตาก",
+                "rain_24h": 0.8,
+                "province": "ตาก",
+                "datetime": "2026-07-08 04:00"
             }
         },
         {
@@ -18230,14 +18246,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.68618,
-                    14.1899
+                    102.816667,
+                    16.333333
                 ]
             },
             "properties": {
-                "station_name": "อบต.ลำนางรอง",
+                "station_name": "ท่าพระ สกษ.",
                 "rain_24h": 0.8,
-                "province": "บุรีรัมย์",
+                "province": "ขอนแก่น",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.27308,
+                    6.737101
+                ]
+            },
+            "properties": {
+                "station_name": "คลองสุหงาบารู หมู่ที่ 4",
+                "rain_24h": 0.8,
+                "province": "ปัตตานี",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18262,30 +18294,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.31434,
-                    18.867105
+                    101.345345,
+                    17.507849
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ลาย – แม่ออน",
+                "station_name": "อุทยานแห่งชาติภูเรือ",
                 "rain_24h": 0.8,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.94656,
-                    17.689278
-                ]
-            },
-            "properties": {
-                "station_name": "รร.บ้านข้าวแป้ง",
-                "rain_24h": 0.8,
-                "province": "สกลนคร",
+                "province": "เลย",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18310,15 +18326,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.143333,
-                    16.878333
+                    99.31434,
+                    18.867105
                 ]
             },
             "properties": {
-                "station_name": "ตาก",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ลาย – แม่ออน",
                 "rain_24h": 0.8,
-                "province": "ตาก",
-                "datetime": "2026-07-08 04:00"
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -18342,6 +18358,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.94447,
+                    19.12207
+                ]
+            },
+            "properties": {
+                "station_name": "แม่แตง",
+                "rain_24h": 0.8,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.68618,
+                    14.1899
+                ]
+            },
+            "properties": {
+                "station_name": "อบต.ลำนางรอง",
+                "rain_24h": 0.8,
+                "province": "บุรีรัมย์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     102.789722,
                     16.461111
                 ]
@@ -18351,38 +18399,6 @@
                 "rain_24h": 0.8,
                 "province": "ขอนแก่น",
                 "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.717384,
-                    16.616194
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านโนนศรีเจริญ",
-                "rain_24h": 0.8,
-                "province": "กาฬสินธุ์",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.345345,
-                    17.507849
-                ]
-            },
-            "properties": {
-                "station_name": "อุทยานแห่งชาติภูเรือ",
-                "rain_24h": 0.8,
-                "province": "เลย",
-                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -18454,38 +18470,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.94447,
-                    19.12207
-                ]
-            },
-            "properties": {
-                "station_name": "แม่แตง",
-                "rain_24h": 0.8,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.41463,
-                    14.751
-                ]
-            },
-            "properties": {
-                "station_name": "เหนือปตร.ยางมณี",
-                "rain_24h": 0.8,
-                "province": "สิงห์บุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.10176,
                     17.208946
                 ]
@@ -18494,6 +18478,38 @@
                 "station_name": "สะพานข้ามห้วยสมอ",
                 "rain_24h": 0.8,
                 "province": "สกลนคร",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.717384,
+                    16.616194
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านโนนศรีเจริญ",
+                "rain_24h": 0.8,
+                "province": "กาฬสินธุ์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.91105,
+                    10.513316
+                ]
+            },
+            "properties": {
+                "station_name": "เขตรักษาพันธุ์สัตว์ป่า อุทยาน เสด็จในกรม กรมหลวงชุมพร ด้านทิศใต้",
+                "rain_24h": 0.8,
+                "province": "ระนอง",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18518,15 +18534,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.354195,
-                    16.677942
+                    100.445335,
+                    7.475482
                 ]
             },
             "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ภูเวียง",
+                "station_name": "หาดมหาราช",
                 "rain_24h": 0.8,
-                "province": "ขอนแก่น",
-                "datetime": "2026-07-08 05:00"
+                "province": "สงขลา",
+                "datetime": "2026-07-08 04:50"
             }
         },
         {
@@ -18566,6 +18582,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.94656,
+                    17.689278
+                ]
+            },
+            "properties": {
+                "station_name": "รร.บ้านข้าวแป้ง",
+                "rain_24h": 0.8,
+                "province": "สกลนคร",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100.87583,
                     19.38663
                 ]
@@ -18582,30 +18614,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.6125,
-                    12.76051
+                    103.75679,
+                    17.831093
                 ]
             },
             "properties": {
-                "station_name": "ศาลาหมู่บ้าน บ้านห้วยไผ่ หมู่ 6",
+                "station_name": "อบต.คำตากล้า",
                 "rain_24h": 0.8,
-                "province": "เพชรบุรี",
-                "datetime": "2026-07-08 04:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.00955,
-                    18.00469
-                ]
-            },
-            "properties": {
-                "station_name": "อ่างเก็บน้ำห้วยหินฝน",
-                "rain_24h": 0.8,
-                "province": "ลำพูน",
+                "province": "สกลนคร",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18614,30 +18630,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.445335,
-                    7.475482
+                    98.78764,
+                    14.53559
                 ]
             },
             "properties": {
-                "station_name": "หาดมหาราช",
+                "station_name": "ลิ่นถิ่น",
                 "rain_24h": 0.8,
-                "province": "สงขลา",
-                "datetime": "2026-07-08 04:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97.96461,
-                    17.867392
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ มง.2 (สบเงา)",
-                "rain_24h": 0.8,
-                "province": "แม่ฮ่องสอน",
+                "province": "กาญจนบุรี",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18678,22 +18678,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.50224,
-                    17.564354
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ตื่น",
-                "rain_24h": 0.8,
-                "province": "เชียงใหม่",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.553085,
                     13.676162
                 ]
@@ -18710,47 +18694,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.07812,
-                    15.89121
+                    99.6125,
+                    12.76051
                 ]
             },
             "properties": {
-                "station_name": "อบต.โนนแดง",
+                "station_name": "ศาลาหมู่บ้าน บ้านห้วยไผ่ หมู่ 6",
                 "rain_24h": 0.8,
-                "province": "มหาสารคาม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.78764,
-                    14.53559
-                ]
-            },
-            "properties": {
-                "station_name": "ลิ่นถิ่น",
-                "rain_24h": 0.8,
-                "province": "กาญจนบุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.75679,
-                    17.831093
-                ]
-            },
-            "properties": {
-                "station_name": "อบต.คำตากล้า",
-                "rain_24h": 0.8,
-                "province": "สกลนคร",
-                "datetime": "2026-07-08 05:00"
+                "province": "เพชรบุรี",
+                "datetime": "2026-07-08 04:50"
             }
         },
         {
@@ -18766,6 +18718,54 @@
                 "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่สลาหลวง",
                 "rain_24h": 0.8,
                 "province": "แม่ฮ่องสอน",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.96461,
+                    17.867392
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ มง.2 (สบเงา)",
+                "rain_24h": 0.8,
+                "province": "แม่ฮ่องสอน",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.50224,
+                    17.564354
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ตื่น",
+                "rain_24h": 0.8,
+                "province": "เชียงใหม่",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.354195,
+                    16.677942
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ภูเวียง",
+                "rain_24h": 0.8,
+                "province": "ขอนแก่น",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18790,22 +18790,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.27308,
-                    6.737101
-                ]
-            },
-            "properties": {
-                "station_name": "คลองสุหงาบารู หมู่ที่ 4",
-                "rain_24h": 0.8,
-                "province": "ปัตตานี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.01749,
                     17.6969
                 ]
@@ -18822,15 +18806,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.41057,
-                    12.61639
+                    99.00955,
+                    18.00469
                 ]
             },
             "properties": {
-                "station_name": "ศาลาเอนกประสงค์บ้านต่อกราด หมู่ 8",
-                "rain_24h": 0.7,
-                "province": "ตราด",
-                "datetime": "2026-07-08 04:50"
+                "station_name": "อ่างเก็บน้ำห้วยหินฝน",
+                "rain_24h": 0.8,
+                "province": "ลำพูน",
+                "datetime": "2026-07-08 05:00"
             }
         },
         {
@@ -18846,6 +18830,22 @@
                 "station_name": "บ้านผู้ใหญ่บ้านสันพระบาท หมู่ 8",
                 "rain_24h": 0.7,
                 "province": "ตาก",
+                "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.41057,
+                    12.61639
+                ]
+            },
+            "properties": {
+                "station_name": "ศาลาเอนกประสงค์บ้านต่อกราด หมู่ 8",
+                "rain_24h": 0.7,
+                "province": "ตราด",
                 "datetime": "2026-07-08 04:50"
             }
         },
@@ -18902,14 +18902,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.264275,
-                    19.019968
+                    103.91594,
+                    17.006313
                 ]
             },
             "properties": {
-                "station_name": "สะพานน้ำแม่จั๊ว",
+                "station_name": "ทต.โคกภู",
                 "rain_24h": 0.6,
-                "province": "พะเยา",
+                "province": "สกลนคร",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18934,14 +18934,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.84726,
-                    14.39567
+                    100.264275,
+                    19.019968
                 ]
             },
             "properties": {
-                "station_name": "อบต.ละหานทราย",
+                "station_name": "สะพานน้ำแม่จั๊ว",
                 "rain_24h": 0.6,
-                "province": "บุรีรัมย์",
+                "province": "พะเยา",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.528,
+                    16.8692
+                ]
+            },
+            "properties": {
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำก่ำ",
+                "rain_24h": 0.6,
+                "province": "นครพนม",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -18966,22 +18982,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.588333,
-                    16.3325
-                ]
-            },
-            "properties": {
-                "station_name": "กาฬสินธุ์",
-                "rain_24h": 0.6,
-                "province": "กาฬสินธุ์",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.10276,
                     15.77424
                 ]
@@ -18990,22 +18990,6 @@
                 "station_name": "อบต.หนองโพธิ์",
                 "rain_24h": 0.6,
                 "province": "มหาสารคาม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.91594,
-                    17.006313
-                ]
-            },
-            "properties": {
-                "station_name": "ทต.โคกภู",
-                "rain_24h": 0.6,
-                "province": "สกลนคร",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -19046,22 +19030,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.528,
-                    16.8692
-                ]
-            },
-            "properties": {
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำก่ำ",
-                "rain_24h": 0.6,
-                "province": "นครพนม",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.53867,
                     12.66014
                 ]
@@ -19071,22 +19039,6 @@
                 "rain_24h": 0.6,
                 "province": "เพชรบุรี",
                 "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.35775,
-                    19.16155
-                ]
-            },
-            "properties": {
-                "station_name": "ศูนย์สาธารณสุขมูลฐาน บ้านสบเกี๋ยง หมู่ 3",
-                "rain_24h": 0.6,
-                "province": "พะเยา",
-                "datetime": "2026-07-08 04:50"
             }
         },
         {
@@ -19110,6 +19062,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.35775,
+                    19.16155
+                ]
+            },
+            "properties": {
+                "station_name": "ศูนย์สาธารณสุขมูลฐาน บ้านสบเกี๋ยง หมู่ 3",
+                "rain_24h": 0.6,
+                "province": "พะเยา",
+                "datetime": "2026-07-08 04:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.2467,
                     16.78151
                 ]
@@ -19119,22 +19087,6 @@
                 "rain_24h": 0.6,
                 "province": "เพชรบูรณ์",
                 "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.81644,
-                    17.0941
-                ]
-            },
-            "properties": {
-                "station_name": "องค์การบริหารส่วนตำบลทับผึ้ง",
-                "rain_24h": 0.6,
-                "province": "สุโขทัย",
-                "datetime": "2026-07-08 04:50"
             }
         },
         {
@@ -19166,6 +19118,22 @@
                 "station_name": "ทต.บะยาว",
                 "rain_24h": 0.6,
                 "province": "อุดรธานี",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53501,
+                    13.94749
+                ]
+            },
+            "properties": {
+                "station_name": "สะพานนวลฉวี",
+                "rain_24h": 0.6,
+                "province": "นนทบุรี",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -19350,6 +19318,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    104.52589,
+                    16.961737
+                ]
+            },
+            "properties": {
+                "station_name": "ปตร. บ้านนาคู่-ท้ายน้ำ",
+                "rain_24h": 0.6,
+                "province": "นครพนม",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100.706436,
                     19.356726
                 ]
@@ -19406,22 +19390,6 @@
                 "station_name": "อบต.คลองตะเกรา",
                 "rain_24h": 0.6,
                 "province": "ฉะเชิงเทรา",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.52589,
-                    16.961737
-                ]
-            },
-            "properties": {
-                "station_name": "ปตร. บ้านนาคู่-ท้ายน้ำ",
-                "rain_24h": 0.6,
-                "province": "นครพนม",
                 "datetime": "2026-07-08 05:00"
             }
         },
@@ -19574,22 +19542,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.53501,
-                    13.94749
-                ]
-            },
-            "properties": {
-                "station_name": "สะพานนวลฉวี",
-                "rain_24h": 0.6,
-                "province": "นนทบุรี",
-                "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.48696,
                     19.470303
                 ]
@@ -19599,6 +19551,38 @@
                 "rain_24h": 0.6,
                 "province": "พะเยา",
                 "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.84726,
+                    14.39567
+                ]
+            },
+            "properties": {
+                "station_name": "อบต.ละหานทราย",
+                "rain_24h": 0.6,
+                "province": "บุรีรัมย์",
+                "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.588333,
+                    16.3325
+                ]
+            },
+            "properties": {
+                "station_name": "กาฬสินธุ์",
+                "rain_24h": 0.6,
+                "province": "กาฬสินธุ์",
+                "datetime": "2026-07-08 04:00"
             }
         },
         {
@@ -19631,6 +19615,22 @@
                 "rain_24h": 0.6,
                 "province": "เชียงราย",
                 "datetime": "2026-07-08 05:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.81644,
+                    17.0941
+                ]
+            },
+            "properties": {
+                "station_name": "องค์การบริหารส่วนตำบลทับผึ้ง",
+                "rain_24h": 0.6,
+                "province": "สุโขทัย",
+                "datetime": "2026-07-08 04:50"
             }
         },
         {
@@ -26334,22 +26334,6 @@
                 "station_name": "กำแพงเพชร",
                 "rain_24h": 0.01,
                 "province": "กำแพงเพชร",
-                "datetime": "2026-07-08 04:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.640643,
-                    12.983723
-                ]
-            },
-            "properties": {
-                "station_name": "บ้านลำตะเคียน",
-                "rain_24h": 0,
-                "province": "เพชรบุรี",
                 "datetime": "2026-07-08 04:00"
             }
         },
@@ -44303,22 +44287,6 @@
                 "rain_24h": 0,
                 "province": "ปทุมธานี",
                 "datetime": "2026-07-08 05:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.89407,
-                    14.076805
-                ]
-            },
-            "properties": {
-                "station_name": "ท้ายไซฟอน ปตร.พระธรรมราชา",
-                "rain_24h": 0,
-                "province": "ปทุมธานี",
-                "datetime": "2026-07-07 17:00"
             }
         },
         {
@@ -70428,6 +70396,22 @@
             },
             "properties": {
                 "station_name": "บ้านแม่คะเมย",
+                "rain_24h": 0,
+                "province": "เพชรบุรี",
+                "datetime": "2026-07-08 04:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.640643,
+                    12.983723
+                ]
+            },
+            "properties": {
+                "station_name": "บ้านลำตะเคียน",
                 "rain_24h": 0,
                 "province": "เพชรบุรี",
                 "datetime": "2026-07-08 04:00"
